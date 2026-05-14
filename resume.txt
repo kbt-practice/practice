@@ -1,5 +1,11 @@
 #commit test
 
+기본 사항
+> 김민지
+> 23살
+> 한국공학대 4학년 재학 중
+> 카카오테크 부트캠프 4기 수강 중
+
 > 자격증 : -
 > 대외활동 : UMC 9th 한국공학대 회장, ICT 경진대회 우수상, 구름톤 3기 운영진 ...
 > 사용기술 : JS, TS, NodeJS, Express, NestJS, Spring Boot, JAVA, MySQL, PostgreSQL ...
